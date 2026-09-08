@@ -5,7 +5,7 @@ SwiftUI + Metal sample for one atomic ripple + image reveal transition.
 > This is an evaluation fork of
 > [`eujinco/ripple-image-transitions`](https://github.com/eujinco/ripple-image-transitions).
 > It preserves the upstream implementation and attribution while demonstrating a
-> read-only [memi](https://github.com/sarveshsea/memi) design-audit integration.
+> read-only [memi](https://github.com/memi-design/memi) design-audit integration.
 > The fork is not affiliated with or endorsed by the upstream maintainer.
 
 Each tap:
